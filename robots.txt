@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://4u30qb.cn/sitemap.xml
